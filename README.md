@@ -4,9 +4,13 @@ I'm a Computer Science graduate passionate about software development, web techn
 🔹 Projects I've worked on:
 
 🎬 ForstPlay – A movie and series streaming platform.
+
 🍽️ MAEDA – A restaurant table booking app (Graduation Project).
+
 🎮 Eye-Controlled Game – A game controlled using eye movements (built with Godot Engine).
+
 🛒 ES Store – An online store for digital subscriptions.
+
 💡 What I'm focusing on now:
 
 Enhancing my skills with new technologies.
